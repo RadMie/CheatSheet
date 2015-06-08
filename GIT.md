@@ -3,7 +3,7 @@
 *Version control system*
 
 ---
-* [$ git init](#markdown-header-git-init)
+* [$ git init](#-git-init)
 * [$ git clone](#markdown-header-git-clone)
 * [gitignore](#markdown-header-gitignore)
 * [$ git diff](#markdown-header-git-diff)
