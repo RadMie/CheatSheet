@@ -6,7 +6,7 @@
 * [$ git config](#-git-config)
 * [$ git init](#-git-init)
 * [$ git clone](#-git-clone)
-* [gitignore](#-gitignore)
+* [gitignore](#gitignore)
 * [$ git diff](#-git-diff)
 * [$ git remote](#-git-remote)
 * [$ git log](#-git-log)
@@ -33,8 +33,8 @@
 * [$ git describe](#-git-describe)
 * [$ git format-patch](#-git-format-patch)
 * [$ git rev-parse](#-git-rev-parse)
-* [Tools](#-tools)
-* [Help](#-help)
+* [Tools](#tools)
+* [Help](#help)
 
 ---
 ## $ git config
