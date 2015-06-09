@@ -3,22 +3,22 @@
 *A package manager for the web*
 
 ---
-* [Install Bower](#markdown-header-install-bower)
-* [Install packages](#markdown-header-install-packages)
-* [Cache](#markdown-header-cache)
-* [Help](#markdown-header-help)
-* [Home](#markdown-header-home)
-* [Info](#markdown-header-info)
-* [Init](#markdown-header-init)
-* [Link](#markdown-header-link)
-* [List](#markdown-header-list)
-* [Lookup](#markdown-header-lookup)
-* [Prune](#markdown-header-prune)
-* [Register](#markdown-header-register)
-* [Search](#markdown-header-search)
-* [Update](#markdown-header-update)
-* [Uninstall](#markdown-header-uninstall)
-* [Version](#markdown-header-version)
+* [Install Bower](#-install-bower)
+* [Install packages](#-install-packages)
+* [Cache](#-cache)
+* [Help](#-help)
+* [Home](#-home)
+* [Info](#-info)
+* [Init](#-init)
+* [Link](#-link)
+* [List](#-list)
+* [Lookup](#-lookup)
+* [Prune](#-prune)
+* [Register](#-register)
+* [Search](#-search)
+* [Update](#-update)
+* [Uninstall](#-uninstall)
+* [Version](#-version)
 
 ---
 ## Install Bower
