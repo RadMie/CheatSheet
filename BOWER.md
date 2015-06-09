@@ -3,22 +3,22 @@
 *A package manager for the web*
 
 ---
-* [Install Bower](#-install-bower)
-* [Install packages](#-install-packages)
-* [Cache](#-cache)
-* [Help](#-help)
-* [Home](#-home)
-* [Info](#-info)
-* [Init](#-init)
-* [Link](#-link)
-* [List](#-list)
-* [Lookup](#-lookup)
-* [Prune](#-prune)
-* [Register](#-register)
-* [Search](#-search)
-* [Update](#-update)
-* [Uninstall](#-uninstall)
-* [Version](#-version)
+* [Install Bower](#install-bower)
+* [Install packages](#install-packages)
+* [Cache](#cache)
+* [Help](#help)
+* [Home](#home)
+* [Info](#info)
+* [Init](#init)
+* [Link](#link)
+* [List](#list)
+* [Lookup](#lookup)
+* [Prune](#prune)
+* [Register](#register)
+* [Search](#search)
+* [Update](#update)
+* [Uninstall](#uninstall)
+* [Version](#version)
 
 ---
 ## Install Bower
